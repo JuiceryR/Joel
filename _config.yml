@@ -20,7 +20,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 twitter_username: JoelWritesStuff
 github_username: JuiceryR
 minimal_mistakes_skin: "dark" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
-search: true
+search: false
 
 # Build settings
 markdown: kramdown
@@ -56,9 +56,10 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Joel Ramos"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "How did you find this?"
+  name     : "Joel Ramos"
+  avatar   : "/assets/images/bio-photo.jpg"
+  bio      : "How did you find this?"
+  location : "New York, NY"
   links:
 #    - label: "Website"
 #      icon: "fas fa-fw fa-link"
@@ -84,6 +85,9 @@ footer:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/juicy_joel"
+
+atom_feed:
+  hide: true
 
 defaults:
   # _posts
