@@ -3,4 +3,4 @@ permalink: /about/
 title: "About"
 ---
 
-Seriously, how did you find this?
+aka Juice aka Juicery aka Juicy Joel aka Joel Juice
