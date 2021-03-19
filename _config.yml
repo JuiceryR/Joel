@@ -19,7 +19,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   How did you find this?
 twitter_username: JoelWritesStuff
 github_username: JuiceryR
-minimal_mistakes_skin: "air" # "default", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
+minimal_mistakes_skin: "dark" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
 search: true
 
 # Build settings
@@ -60,15 +60,15 @@ author:
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "How did you find this?"
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://joel-ramos.com"
+#    - label: "Website"
+#      icon: "fas fa-fw fa-link"
+#      url: "https://joel-ramos.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/JoelWritesStuff"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/JuiceryR"
+#    - label: "GitHub"
+#      icon: "fab fa-fw fa-github"
+#      url: "https://github.com/JuiceryR"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/juicy_joel"
@@ -78,9 +78,9 @@ footer:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/JoelWritesStuff"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/JuiceryR"
+#    - label: "GitHub"
+#      icon: "fab fa-fw fa-github"
+#      url: "https://github.com/JuiceryR"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/juicy_joel"
